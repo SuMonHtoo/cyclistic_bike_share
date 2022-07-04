@@ -2,13 +2,13 @@
 Case Study from Google Data Analytics Specialization course on Coursera
 
 ### Objective
-To solve a business task which is to convert casual bike riders to members.
+To solve Cyclistic company's business task which is to convert casual bike riders to members.
 
 ### Data Source
-Cyclistic's historical trip data wil be used. However, since Cyclistic is a fictional company so I will use the sample dataset which is made available from Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement). You can also download the [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) and practise together with me. 
+Cyclistic's historical trip data will be used. However, since Cyclistic is a fictional company, I will use the sample dataset which is made available from Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement). You can also download the [dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) and practise together with me. 
 
 ### Introduction
-I will perform data analysis in three different ways:
+Data analysis will be performed in three different ways:
 * Using MS Office Excel
 * Using mySQL+Tableau
 * Using R Programming Language
