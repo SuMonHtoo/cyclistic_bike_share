@@ -10,7 +10,7 @@ Cyclistic's historical trip data will be used. However, since Cyclistic is a fic
 ### Introduction
 Data analysis will be performed in three different ways:
 * Using MS Office Excel
-* Using mySQL+Tableau
+* Using MySQL+Tableau
 * Using R Programming Language
 
 ## Using MS Office Excel
